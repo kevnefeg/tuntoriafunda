@@ -8,7 +8,9 @@ using namespace std;
 int main()
 {
 //salida de texto
-    cout<<"Hola mundo";
+    cout<<"Hola mundo \n";
+        cout<<"Hola mundo \n";
+
 
     return 0;
 }
