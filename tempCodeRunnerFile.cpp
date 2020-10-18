@@ -1,3 +1,2 @@
-
-    cout<<"Ingrese el apellido \n";
-    cin>>apellido;
+ int opcion;
+    float multipli
